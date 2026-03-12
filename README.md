@@ -16,12 +16,12 @@ O usuário pode cadastrar vários heróis e, ao final, o sistema informa o níve
 📚 **Sistema de Classificação:**
 
 🏆 XP do Herói	Nível
-até 1000	🪨 Ferro
-1001 - 2000 🥉 Bronze
-2001 - 5000	🥈 Prata
-5001 - 7000	🥇 Ouro
-7001 - 8000	💎 Platina
-8001 - 9000	⚡ Ascendente
+até 1000	🪨 Ferro  
+1001 - 2000 🥉 Bronze  
+2001 - 5000	🥈 Prata  
+5001 - 7000	🥇 Ouro  
+7001 - 8000	💎 Platina  
+8001 - 9000	⚡ Ascendente  
 9001 - 10000	🔥 Imortal
 acima de 10000	🌟 Radiante
 
