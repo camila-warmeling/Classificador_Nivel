@@ -15,7 +15,7 @@ O usuário pode cadastrar vários heróis e, ao final, o sistema informa o níve
 
 📚 **Sistema de Classificação:**
 
-🏆 XP do Herói	Nível
+🏆 XP do Herói	Nível  
 até 1000	🪨 Ferro  
 1001 - 2000 🥉 Bronze  
 2001 - 5000	🥈 Prata  
