@@ -22,7 +22,7 @@ até 1000	🪨 Ferro
 5001 - 7000	🥇 Ouro  
 7001 - 8000	💎 Platina  
 8001 - 9000	⚡ Ascendente  
-9001 - 10000	🔥 Imortal
+9001 - 10000	🔥 Imortal  
 acima de 10000	🌟 Radiante
 
 
